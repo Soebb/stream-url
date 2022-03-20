@@ -7,6 +7,6 @@ Stream and proxy links
 
     `python main.py`
 
-    or 
+     or 
 
     `gunicorn main:main --bind 0.0.0.0:8080 --worker-class aiohttp.GunicornWebWorker`
